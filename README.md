@@ -1,6 +1,6 @@
-#This is blog project.
+### `This is blog project created by Hans Andersson`
 
-Features
+### `Features`
 
 -using stack: React, Redux, Typescript, Node, Express and Tailwind CSS
 -simple authentication funtionality such as sign up, sign in, sign out.
@@ -10,7 +10,7 @@ Features
 -watches count by using watche button.
 -useful alerts functionality such as "invalid user" or "successfully registered!" and so on.
 
-To start
+### `To start`
 
 ### `npm start`
 
