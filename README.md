@@ -1,6 +1,6 @@
-### `This is blog project created by Hans Andersson`
+# `This is blog project created by Hans Andersson`
 
-### `Features`
+## `Features`
 
 -using stack: React, Redux, Typescript, Node, Express and Tailwind CSS
 -simple authentication funtionality such as sign up, sign in, sign out.
@@ -10,7 +10,9 @@
 -watches count by using watche button.
 -useful alerts functionality such as "invalid user" or "successfully registered!" and so on.
 
-### `To start`
+## Available Scripts
+
+In the project directory, you can run:
 
 ### `npm start`
 
@@ -32,3 +34,9 @@ to start project easily :
 ### `npm run dev`
 
 start frontend server and backend server concurrently.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
