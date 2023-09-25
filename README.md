@@ -1,4 +1,4 @@
-# `This is blog project created by Hans Andersson`
+# 
 
 ## `Features`
 
